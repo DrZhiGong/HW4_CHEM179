@@ -1,0 +1,79 @@
+gamma
+   21.0781   15.5103
+   15.5103   21.0781
+Overlap Matrix 
+   1.0000   0.6599
+   0.6599   1.0000
+Core Hamiltonian Matrix 
+  -33.2254   -5.9388
+   -5.9388  -33.2254
+Iteration: 0
+Fock Matrix for Alpha: 
+  -33.2254   -5.9388
+   -5.9388  -33.2254
+Fock Matrix for Beta: 
+  -33.2254   -5.9388
+   -5.9388  -33.2254
+after solving eigen quation: 0
+MO Coefficient Matrix for Alpha: 
+   0.7071  -0.7071
+   0.7071   0.7071
+MO Coefficient Matrix for Beta: 
+   0.7071  -0.7071
+   0.7071   0.7071
+p: 1 q: 1
+Density Matrix for Alpha: 
+   0.5000   0.5000
+   0.5000   0.5000
+Density Matrix for Beta: 
+   0.5000   0.5000
+   0.5000   0.5000
+Total Density Matrix: 
+   1.0000   1.0000
+   1.0000   1.0000
+Total Density Vector
+   1.0000
+   1.0000
+Iteration: 1
+Fock Matrix for Alpha: 
+   -7.1760  -13.6940
+  -13.6940   -7.1760
+Fock Matrix for Beta: 
+   -7.1760  -13.6940
+  -13.6940   -7.1760
+after solving eigen quation: 1
+MO Coefficient Matrix for Alpha: 
+   0.7071  -0.7071
+   0.7071   0.7071
+MO Coefficient Matrix for Beta: 
+   0.7071  -0.7071
+   0.7071   0.7071
+p: 1 q: 1
+Density Matrix for Alpha: 
+   0.5000   0.5000
+   0.5000   0.5000
+Density Matrix for Beta: 
+   0.5000   0.5000
+   0.5000   0.5000
+Total Density Matrix: 
+   1.0000   1.0000
+   1.0000   1.0000
+Total Density Vector
+   1.0000
+   1.0000
+Converged!
+Ea
+  -20.8700
+    6.5180
+Eb
+  -20.8700
+    6.5180
+Ca
+   0.7071  -0.7071
+   0.7071   0.7071
+Cb
+   0.7071  -0.7071
+   0.7071   0.7071
+Nuclear Repulsion Energy: 19.459eV
+Electron Energy: -60.0343eV
+Total Energy: -40.5753eV

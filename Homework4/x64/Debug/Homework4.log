@@ -1,0 +1,13 @@
+﻿  CNDO2.cpp
+C:\Myarmadillo\HW4_CHEM179\Homework4\CNDO2.cpp(80,13): warning C4244: “初始化”: 从“arma::uword”转换到“int”，可能丢失数据
+C:\Myarmadillo\HW4_CHEM179\Homework4\CNDO2.cpp(152,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Myarmadillo\HW4_CHEM179\Homework4\CNDO2.cpp(275,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Myarmadillo\HW4_CHEM179\Homework4\CNDO2.cpp(294,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\HW4_CHEM179\Homework4\CNDO2.cpp(295,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\HW4_CHEM179\Homework4\CNDO2.cpp(296,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\HW4_CHEM179\Homework4\CNDO2.cpp(297,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\HW4_CHEM179\Homework4\CNDO2.cpp(298,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Myarmadillo\HW4_CHEM179\Homework4\CNDO2.cpp(353,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Inputfiletogetres.cpp
+  正在生成代码...
+  Homework4.vcxproj -> C:\Myarmadillo\HW4_CHEM179\Homework4\x64\Debug\Homework4.exe
