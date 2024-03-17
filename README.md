@@ -1,5 +1,7 @@
 # HW4_CHEM179
 Hi everybody, here is Zhi(Daniel) Gong speaking.
+
+
 With the help of ChatGPT providing the Template to modify my codes and the open forums where there are too many wonderful tips for my coding life, most gratitude to my GSI Xiao, I have tried many times to access the right output of HO, HF, H2 for a long time.
 And briefly speaking, I`d like to show some of the references I used.
 Moreover, I tried to complie these codes in the Visual Studio 2022 Community WINDOWS and set the Armadillo package with the link I used. So please let me know if you meet some errors or other technical problems when you compiling these. DLL(/MDd) setup is what I used.
