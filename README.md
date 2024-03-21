@@ -9,6 +9,11 @@ Just as you know, it needs quite a lot of works to access.
 If you are confused, you can email me at zhigong@berkeley.edu or go to my office in Gilman Hall at UC, berkeley.
 Thank you for your love.
 
+Here is the standard sample of input file for H2:
+2 0
+H 0.0 0.0 0.0
+H 1.3984 0.0 0.0
+
 References:
 [1]https://blog.csdn.net/zhebushibiaoshifu/article/details/127123511?ops_request_misc=&request_id=&biz_id=102&utm_term=%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8armadillo&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-127123511.142^v99^pc_search_result_base3&spm=1018.2226.3001.4187
 [2]Hase, H.L., Schweig, A. CNDO/2 (complete neglect of differential overlap)-method for third-row molecules. Theoret. Chim. Acta 31, 215–220 (1973). https://doi.org/10.1007/BF00526511
