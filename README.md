@@ -10,6 +10,8 @@ If you are confused, you can email me at zhigong@berkeley.edu or go to my office
 Thank you for your love.
 
 Here is the standard sample of input file for H2:
+
+
 2 0
 
 H 0.0 0.0 0.0
