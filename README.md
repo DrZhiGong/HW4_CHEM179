@@ -11,7 +11,9 @@ Thank you for your love.
 
 Here is the standard sample of input file for H2:
 2 0
+
 H 0.0 0.0 0.0
+
 H 1.3984 0.0 0.0
 
 References:
